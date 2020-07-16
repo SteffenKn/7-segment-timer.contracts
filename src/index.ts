@@ -1,7 +1,4 @@
-export * from './example';
-
-import Example from './example';
-
-const example: Example = new Example();
-
-example.hello('Peter');
+export * from './Animations';
+export * from './RgbColor';
+export * from './Routes';
+export * from './Time';
