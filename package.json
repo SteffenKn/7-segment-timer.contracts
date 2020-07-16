@@ -17,8 +17,11 @@
     "url": "git+https://github.com/SteffenKn/7-segment-timer.contracts.git"
   },
   "keywords": [
-    "typescript",
-    "template"
+    "7-Segment",
+    "Led",
+    "WS2801",
+    "Timer",
+    "Contracts"
   ],
   "author": "Steffen Knaup",
   "license": "MIT",
